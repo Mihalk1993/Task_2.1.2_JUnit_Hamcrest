@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Task_2.1.2_JUnit+Hamcrest" />
         <module name="Task_2.1.1_JUnit" />
       </profile>
     </annotationProcessing>
